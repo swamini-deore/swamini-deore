@@ -31,6 +31,15 @@ Hi 👋 I’m **Swamini Deore**
 ✨I specialize in **data-driven insights**, **BI dashboards**, and **AI-powered automation systems** that help organizations make smarter, faster decisions.
 
 ---
+### 🛠️ Tools & Technologies
+<p>
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-Deployment-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+---
 
 ## 🧠 Skill Stack (Interactive Badges)
 
@@ -91,16 +100,6 @@ Hi 👋 I’m **Swamini Deore**
 
 ---
 
-### 🛠️ Tools & Technologies
-<p>
-  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-Deployment-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
----
-
 ## 🚀 What I Build
 
 ✅ Business Dashboards  
@@ -138,11 +137,3 @@ Hi 👋 I’m **Swamini Deore**
 </p>
 
 ---
-<h3 align="center">
-⭐ Turning Data into Decisions • Automation into Intelligence ⭐
-</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="260"/>
-</p> the code is good my requirement skilll bages interesting add recruiter impresssed profile  
-
