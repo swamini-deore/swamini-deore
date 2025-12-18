@@ -1,5 +1,5 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Swamini Deore</h1>
+<h1 align="center"> Swamini Deore</h1>
 
 <h3 align="center">
 📊 Data Analyst | 📈 Business Intelligence Developer | 🤖 AI Agent Automation
