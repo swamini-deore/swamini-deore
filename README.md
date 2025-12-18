@@ -33,17 +33,19 @@ Hi 👋 I’m **Swamini Deore**
 ---
 ### 🛠️ Tools & Technologies
 <p>
-  ⬛ <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github"/>
-  🔵 <img src="https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  🟩 <img src="https://img.shields.io/badge/Excel-Analytics-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  🟦 <img src="https://img.shields.io/badge/MySQL-Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  🟪 <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  🟦 <img src="https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  🟨 <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  🟪 <img src="https://img.shields.io/badge/Tableau-Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  🟫 <img src="https://img.shields.io/badge/HuggingFace-AI-FF9900?style=for-the-badge&logo=huggingface&logoColor=white"/>
-  🔴 <img src="https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Excel-Analytics-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-AI-FF9900?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HackerRank-Coding-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </p>
+
 
 ---
 ## 🧠 Skill Stack (Interactive Badges)
