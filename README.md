@@ -1,6 +1,23 @@
-<!-- PROFILE HEADER -->
-<h1 align="center"> Swamini Deore</h1>
+<!-- ================= TOP ANIMATED BANNER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=240&section=header&text=Swamini%20Deore&fontSize=52&fontColor=ffffff&animation=fadeIn" />
+</p>
 
+<!-- ================= TYPING ANIMATION ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2000&pause=400&color=00FFEA&center=true&vCenter=true&width=900&lines=Data+Analyst;Business+Intelligence+Developer;AI+Agent+Automation;Turning+Data+into+Decisions" />
+</p>
+
+<!-- ================= CONTACT ================= -->
+<p align="center">
+📧 <strong>Email:</strong> <a href="mailto:swaminideore5@gmail.com">swaminideore5@gmail.com</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=swaminideore&label=Profile%20Views&color=0ef&style=flat" />
+</p>
+
+---
 <h3 align="center">
 📊 Data Analyst | 📈 Business Intelligence Developer | 🤖 AI Agent Automation
 </h3>
