@@ -16,17 +16,20 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=swaminideore&label=Profile%20Views&color=0ef&style=flat" />
 </p>
+
 ---
+
 ## 👩‍💻 About Me
 
 <img align="right" width="320" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" />
 
 Hi 👋 I’m **Swamini Deore**  
 🎓 **Computer Science Graduate**  
-📊 **Data Analyst |📈Business Intelligence Developer**  
+📊 **Data Analyst | Business Intelligence Developer**  
 🤖 **AI Agent & Automation Enthusiast**
 
-✨I specialize in **data-driven insights**,**BI dashboards**,and **AI-powered automation systems** that help organizations make smarter, faster decisions.
+I specialize in **data-driven insights**, **BI dashboards**, and **AI-powered automation systems** that help organizations make smarter, faster decisions.
+
 ---
 
 ## 🧠 Skill Stack (Interactive Badges)
