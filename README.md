@@ -138,4 +138,11 @@ Hi 👋 I’m **Swamini Deore**
 </p>
 
 ---
+<h3 align="center">
+⭐ Turning Data into Decisions • Automation into Intelligence ⭐
+</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="260"/>
+</p> the code is good my requirement skilll bages interesting add recruiter impresssed profile  
 
