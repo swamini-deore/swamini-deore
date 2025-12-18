@@ -81,7 +81,7 @@ Hi 👋 I’m **Swamini Deore**
 <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:your_email@gmail.com">
+<a href="swaminideore5@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
