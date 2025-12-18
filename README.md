@@ -1,128 +1,136 @@
-
-<h1 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=2500&pause=500&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Swamini+Deore;Data+Analyst;BI+Developer;AI+Agent+Automation" 
-    alt="Swamini Deore" />
-</h1>
-
-
-<h3 align="center">
-📊 Data Analyst | 📈 Business Intelligence Developer | 🤖 AI Agent Automation
-</h3>
-
+<!-- TOP ANIMATED BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=600&lines=Turning+Data+into+Insights;Building+BI+Dashboards;Automating+Workflows+with+AI;LLM+Based+AI+Agents" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=240&section=header&text=Komal%20Mahale&fontSize=52&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2000&pause=400&color=00FFEA&center=true&vCenter=true&width=850&lines=Data+Analyst;Business+Developer;AI+Agents+Builder;Turning+Data+into+Decisions" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="320"/>
+  <img src="https://komarev.com/ghpvc/?username=komalmahale&label=Profile%20Views&color=0ef&style=flat" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎯 Data-driven professional passionate about **analytics, visualization & automation**  
-📊 Helping businesses make **smart decisions using data**  
-🤖 Designing **AI agents & automated systems**  
-📍 India  
+<img align="right" width="320" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="260"/>
-</p>
+Hi 👋 I’m **Komal Mahale**  
+🎓 Computer Science Background  
+📊 Data Analyst | 📈 Business Developer  
+🤖 AI Agents & Automation Enthusiast  
+
+✨ I specialize in **data-driven insights**, **business growth strategies**, and **AI-powered automation systems**.
 
 ---
 
-## 🧠 Skill Stack (Interactive Badges)
+## 🧠 Skill Proficiency
 
 ### 📊 Data Analytics
+`Python` ██████████░░ 90%  
+`SQL` █████████░░░ 85%  
+`Power BI` █████████░░░ 88%  
+`Excel` █████████░░░ 85%  
+
+### 🤖 AI & Automation
+`Machine Learning` ████████░░░ 80%  
+`AI Agents` ████████░░░ 78%  
+`Prompt Engineering` █████████░░ 82%  
+`n8n Automation` ████████░░░ 80%  
+
+### 💼 Business & Strategy
+`Business Analysis` █████████░░░ 85%  
+`Market Research` ████████░░░ 80%  
+`KPI Tracking` █████████░░░ 85%  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,github,git,linux" />
+<img src="https://skillicons.dev/icons?i=powerbi,azure,vscode" />
+</p>
+
+---
+## 🛠️ Skills & Technologies
+
+### 📊 Data Analytics & Visualization
 <p>
-  <img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-Database-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-Analytics-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Statistics-Insights-8E44AD?style=for-the-badge"/>
-</p>
-
-✔ Data Cleaning & Transformation  
-✔ Exploratory Data Analysis (EDA)  
-✔ Trend & Pattern Analysis  
-✔ Business Metrics (KPIs)  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="280"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-0A192F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-1E88E5?style=for-the-badge"/>
 </p>
 
 ---
 
-### 📈 Business Intelligence Development
+### 🤖 AI, Machine Learning & Automation
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DAX-Modeling-005571?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ETL-Pipelines-2ECC71?style=for-the-badge"/>
-</p>
-
-✔ Interactive Dashboards  
-✔ Data Modeling & Relationships  
-✔ Power Query & ETL  
-✔ Decision Support Reports  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-5C2D91?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-8E24AA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/n8n-AF2A2A?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation-009688?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🤖 AI Agent & Automation
+### 💻 Programming & Technical Tools
 <p>
-  <img src="https://img.shields.io/badge/AI%20Agents-LLM%20Based-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-AI-6A5ACD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/API-Integration-34495E?style=for-the-badge"/>
-</p>
-
-✔ AI Workflow Automation  
-✔ Chatbots & Assistants  
-✔ LLM Prompt Design  
-✔ System-to-System Automation  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/API%20Integration-005571?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🛠️ Tools & Technologies
+### 📈 Business, Strategy & Analytics
 <p>
-  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-Deployment-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Business%20Analysis-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Market%20Research-2E7D32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Competitive%20Analysis-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KPI%20Tracking-3949AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Decision%20Making-00897B?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 What I Build
+### 🧠 Soft Skills & Professional Strengths
+<p>
+<img src="https://img.shields.io/badge/Problem%20Solving-FF7043?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Critical%20Thinking-455A64?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Communication-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Presentation%20Skills-1A237E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Team%20Collaboration-2E7D32?style=for-the-badge"/>
+</p>
 
-✅ Business Dashboards  
-✅ Data Analytics Projects  
-✅ AI Agent Systems  
-✅ Automated Workflows  
+
+## 🚀 Featured Work
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=komalmahale&repo=ai-interview-automation&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=komalmahale&repo=data-analytics-projects&theme=tokyonight" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swaminideore&show_icons=true&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swaminideore&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=komalmahale&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=komalmahale&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -130,23 +138,17 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:swaminideore5@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:your_email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-<h3 align="center">
-⭐ Turning Data into Decisions • Automation into Intelligence ⭐
-</h3>
-
+<!-- FOOTER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="260"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer" />
 </p>
-
-
-
