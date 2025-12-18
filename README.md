@@ -33,7 +33,8 @@ Hi 👋 I’m **Swamini Deore**
 ---
 ### 🛠️ Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,github,linux,powerbi,azure,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=powerbi,azure,vscode" />
 </p>
 
 ---
