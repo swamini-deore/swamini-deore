@@ -25,10 +25,10 @@
 
 Hi 👋 I’m **Swamini Deore**  
 🎓 **Computer Science Graduate**  
-📊 **Data Analyst | Business Intelligence Developer**  
+📊 **Data Analyst |📈Business Intelligence Developer**  
 🤖 **AI Agent & Automation Enthusiast**
 
-I specialize in **data-driven insights**, **BI dashboards**, and **AI-powered automation systems** that help organizations make smarter, faster decisions.
+✨I specialize in **data-driven insights**, **BI dashboards**, and **AI-powered automation systems** that help organizations make smarter, faster decisions.
 
 ---
 
@@ -139,10 +139,3 @@ I specialize in **data-driven insights**, **BI dashboards**, and **AI-powered au
 
 ---
 
-<h3 align="center">
-⭐ Turning Data into Decisions • Automation into Intelligence ⭐
-</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="260"/>
-</p> the code is good my requirement skilll bages interesting add recruiter impresssed profile  
