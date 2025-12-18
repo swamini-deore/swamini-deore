@@ -17,15 +17,14 @@
 
 ## 👩‍💻 About Me
 
-🎯 Data-driven professional passionate about **analytics, visualization & automation**  
-📊 Helping businesses make **smart decisions using data**  
-🤖 Designing **AI agents & automated systems**  
-📍 India  
+<img align="right" width="320" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="260"/>
-</p>
+Hi 👋 I’m **Swamini Deore**  
+🎓 **Computer Science Graduate**  
+📊 **Data Analyst | Business Intelligence Developer**  
+🤖 **AI Agent & Automation Enthusiast**
 
+I specialize in **data-driven insights**, **BI dashboards**, and **AI-powered automation systems** that help organizations make smarter, faster decisions.
 ---
 
 ## 🧠 Skill Stack (Interactive Badges)
