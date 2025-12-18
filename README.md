@@ -32,10 +32,7 @@ Hi 👋 I’m **Swamini Deore**
 
 ---
 ### 🛠️ Tools & Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,linux" />
-  <img src="https://skillicons.dev/icons?i=powerbi,azure,vscode" />
-</p>
+<p> <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github"/> <img src="https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-Deployment-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> </p>
 
 ---
 ## 🧠 Skill Stack (Interactive Badges)
