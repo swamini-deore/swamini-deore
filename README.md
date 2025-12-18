@@ -35,7 +35,7 @@ Hi 👋 I’m **Swamini Deore**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github,linux" />
-  <img src="https://skillicons.dev/icons?i=powerbi,excel,tableau,n8n,huggingface,vscode" />
+  <img src="https://skillicons.dev/icons?i=powerbi,vscode" />
 </p>
 
 
