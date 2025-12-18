@@ -40,10 +40,11 @@ Hi 👋 I’m **Swamini Deore**
   <img src="https://img.shields.io/badge/MySQL-Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-AI-FF9900?style=for-the-badge&logo=huggingface&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/HackerRank-Coding-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
 </p>
 
 
