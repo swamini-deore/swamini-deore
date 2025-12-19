@@ -90,17 +90,24 @@ Hi 👋 I’m **Swamini Deore**
 
 ---
 
-### 🤖 AI Agent & Automation
+### 🤖 AI Agent,Automation & Machine Learning
+
 <p>
   <img src="https://img.shields.io/badge/AI%20Agents-LLM%20Based-000000?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Models-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/NLP-Text%20Processing-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prompt%20Engineering-AI-6A5ACD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/API-Integration-34495E?style=for-the-badge"/>
 </p>
 
 ✔ AI Workflow Automation  
-✔ Chatbots & Assistants  
-✔ LLM Prompt Design  
+✔ LLM-Based AI Agents  
+✔ Machine Learning Models  
+✔ NLP (Text Classification, Chatbots)  
+✔ Deep Learning Fundamentals  
+✔ Prompt Engineering  
 ✔ System-to-System Automation  
 
 <p align="center">
@@ -108,7 +115,23 @@ Hi 👋 I’m **Swamini Deore**
 </p>
 
 ---
+### 💼 Soft Skills & Professional Strengths
 
+✔ Strong Analytical & Problem-Solving Skills  
+✔ Business-Focused Thinking & Decision Support  
+✔ Clear Data Storytelling & Visualization  
+✔ Attention to Detail & Data Accuracy  
+✔ Strong Communication & Stakeholder Collaboration  
+✔ Time Management & Task Prioritization  
+✔ Adaptability to New Tools & Technologies  
+✔ Continuous Learning Mindset  
+✔ Ownership & Accountability  
+✔ Team Player with Independent Work Capability  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="260"/>
+</p>
+---
 ## 🚀 What I Build
 
 ✅ Business Dashboards  
