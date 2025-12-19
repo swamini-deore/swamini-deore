@@ -49,7 +49,7 @@ Hi 👋 I’m **Swamini Deore**
 
 
 ---
-## 🧠 Skill Stack (Interactive Badges)
+## 🧠 Skill Stack & Technologies
 
 ### 📊 Data Analytics
 <p>
