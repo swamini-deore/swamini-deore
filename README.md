@@ -69,6 +69,7 @@ Hi 👋 I’m **Swamini Deore**
   <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="300"/>
 </p>
 ---
+
 ### 📈 Business Intelligence Development
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
