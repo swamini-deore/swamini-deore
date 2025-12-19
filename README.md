@@ -68,6 +68,7 @@ Hi 👋 I’m **Swamini Deore**
 <p align="center">
   <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="300"/>
 </p>
+
 ---
 
 ### 📈 Business Intelligence Development
