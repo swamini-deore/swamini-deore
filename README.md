@@ -51,7 +51,7 @@ Hi 👋 I’m **Swamini Deore**
 ---
 ## 🧠 Skill Stack & Technologies
 
-### 📊 Data Analytics & Visualization
+### 📊 Data Analytics 
 
 <p>
   <img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
