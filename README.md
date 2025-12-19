@@ -117,22 +117,23 @@ Hi 👋 I’m **Swamini Deore**
 ---
 ### 💼 Soft Skills & Professional Strengths
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Communication-Clear%20%26%20Simple-4CAF50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Problem%20Solving-Analytical%20Thinking-2196F3?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Presentation-Skills-9C27B0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Logical-Thinking-FF9800?style=for-the-badge"/>
 </p>
 
-✔ Simple & Clear Communication  
-✔ Strong Problem-Solving Ability  
-✔ Effective Presentation & Explanation Skills  
-✔ Logical & Structured Thinking  
-
 <p align="center">
-  <img src="https://your-image-link-here.png" width="260"/>
+  ✔ Simple & Clear Communication  
+  <br>✔ Strong Problem-Solving Ability  
+  <br>✔ Effective Presentation & Explanation Skills  
+  <br>✔ Logical & Structured Thinking
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="300"/>
+</p>
 
 
 ---
