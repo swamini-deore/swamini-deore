@@ -132,9 +132,8 @@ Hi 👋 I’m **Swamini Deore**
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" width="300"/>
 </p>
-
 
 ---
 ## 🚀 What I Build
