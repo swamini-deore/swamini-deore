@@ -51,16 +51,20 @@ Hi 👋 I’m **Swamini Deore**
 ---
 ## 🧠 Skill Stack & Technologies
 
-### 📊 Data Analytics
+### 📊 Data Analytics & Visualization
+
 <p>
   <img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-Database-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-Analytics-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Statistics-Insights-8E44AD?style=for-the-badge"/>
 </p>
 
 ✔ Data Cleaning & Transformation  
 ✔ Exploratory Data Analysis (EDA)  
+✔ Data Visualization & Storytelling  
 ✔ Trend & Pattern Analysis  
 ✔ Business Metrics (KPIs)  
 
