@@ -122,10 +122,7 @@ Hi 👋 I’m **Swamini Deore**
   <img src="https://img.shields.io/badge/Problem%20Solving-Analytical%20Thinking-2196F3?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Presentation-Skills-9C27B0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Logical-Thinking-FF9800?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data-Storytelling-3F51B5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Confidence-Sharing%20Insights-795548?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Team-Collaboration-607D8B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Learning-Mindset-009688?style=for-the-badge"/>
+ 
 </p>
 
 ✔ Simple & Clear Communication  
