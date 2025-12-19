@@ -122,21 +122,17 @@ Hi 👋 I’m **Swamini Deore**
   <img src="https://img.shields.io/badge/Problem%20Solving-Analytical%20Thinking-2196F3?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Presentation-Skills-9C27B0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Logical-Thinking-FF9800?style=for-the-badge"/>
- 
 </p>
 
 ✔ Simple & Clear Communication  
 ✔ Strong Problem-Solving Ability  
 ✔ Effective Presentation & Explanation Skills  
-✔ Logical & Structured Thinking  
-✔ Ability to Explain Data in Easy Language  
-✔ Confidence in Sharing Insights  
-✔ Team Collaboration  
-✔ Willingness to Learn & Grow  
+✔ Logical & Structured Thinking   
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="260"/>
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="260"/>
 </p>
+
 
 ---
 ## 🚀 What I Build
