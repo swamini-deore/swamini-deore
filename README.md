@@ -127,11 +127,12 @@ Hi 👋 I’m **Swamini Deore**
 ✔ Simple & Clear Communication  
 ✔ Strong Problem-Solving Ability  
 ✔ Effective Presentation & Explanation Skills  
-✔ Logical & Structured Thinking   
+✔ Logical & Structured Thinking  
 
 <p align="center">
-  <img src="attachment://A_GIF_showcases_a_professional_presentation_scene_.png" width="260"/>
+  <img src="https://your-image-link-here.png" width="260"/>
 </p>
+
 
 
 ---
