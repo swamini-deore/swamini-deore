@@ -117,20 +117,17 @@ Hi 👋 I’m **Swamini Deore**
 ---
 ### 💼 Soft Skills & Professional Strengths
 
-✔ Strong Analytical & Problem-Solving Skills  
-✔ Business-Focused Thinking & Decision Support  
-✔ Clear Data Storytelling & Visualization  
-✔ Attention to Detail & Data Accuracy  
-✔ Strong Communication & Stakeholder Collaboration  
-✔ Time Management & Task Prioritization  
-✔ Adaptability to New Tools & Technologies  
-✔ Continuous Learning Mindset  
-✔ Ownership & Accountability  
-✔ Team Player with Independent Work Capability  
-
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="260"/>
+  <img src="https://img.shields.io/badge/Communication-Clear%20%26%20Simple-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-Analytical%20Thinking-2196F3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Presentation-Skills-9C27B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Logical-Thinking-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data-Storytelling-3F51B5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Confidence-Sharing%20Insights-795548?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Team-Collaboration-607D8B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-Mindset-009688?style=for-the-badge"/>
 </p>
+
 ---
 ## 🚀 What I Build
 
