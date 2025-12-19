@@ -130,10 +130,8 @@ Hi 👋 I’m **Swamini Deore**
 ✔ Logical & Structured Thinking   
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="260"/>
+  <img src="https://media.giphy.com/media/3o7TKP4ch6aWf2q1uE/giphy.gif" width="260"/>
 </p>
-
-
 
 ---
 ## 🚀 What I Build
