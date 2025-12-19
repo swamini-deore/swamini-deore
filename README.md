@@ -66,11 +66,9 @@ Hi 👋 I’m **Swamini Deore**
 ✔ Business Metrics (KPIs)  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="300"/>
 </p>
-
 ---
-
 ### 📈 Business Intelligence Development
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
